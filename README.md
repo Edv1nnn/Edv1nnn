@@ -1,4 +1,4 @@
-<!-- ![](https://user-images.githubusercontent.com/112799757/236280903-143b9365-ffa4-4ec8-9a6c-4a41087b2469.png) -->
+![image](https://github.com/Edv1nnn/Edv1nnn/assets/112799757/0e57f139-3d6c-45d8-81a7-663386d37aed)
 
 ## 🏆 GitHub Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Edv1nnn&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"></p>
