@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Edv1nnn/Edv1nnn/assets/112799757/1c0ea60f-0b5f-48ef-b20f-49f8a6431615"></p>
+<p align="center"><img src="https://github.com/Edv1nnn/Edv1nnn/assets/112799757/7119377a-7a62-45dc-8ceb-8c1df06bf8d4"></p>
 
 >## 🏆 GitHub Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Edv1nnn&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"></p>
