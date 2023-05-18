@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Edv1nnn/Edv1nnn/assets/112799757/260fa744-b687-4bc8-8b34-6f29f364d611)"></p>
 
-## 🏆 GitHub Trophies
+<p align="center">## 🏆 GitHub Trophies</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Edv1nnn&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"></p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
